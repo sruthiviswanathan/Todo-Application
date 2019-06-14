@@ -1,0 +1,30 @@
+.del {
+    background: purple;
+    color: plum;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+  }
+
+  .del:hover {
+    opacity: 0.5;
+  }
+
+  input[type="checkbox"] {
+    width: 28px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  .todo {
+    background: lavender;
+    padding: 10px;
+    border-bottom: 1px #ccc double;
+  }
+  
+  .is-complete {
+    text-decoration: line-through;
+  }
+  
+ 
